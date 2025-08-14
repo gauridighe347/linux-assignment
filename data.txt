@@ -1,0 +1,6 @@
+apple 12 red
+banana 80 yellow
+grapes 15 green
+mango 25 orange
+pear 5 brown
+name 11 gauri
